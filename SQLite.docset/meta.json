@@ -1,0 +1,9 @@
+{
+    "extra": {
+        "indexFilePath": "sqlite/docs.html"
+    },
+    "name": "SQLite",
+    "sourceId": "com.kapeli",
+    "title": "SQLite",
+    "version": "3.11.1"
+}
